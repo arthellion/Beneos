@@ -1,0 +1,26 @@
+		{
+			"name": "beneosbattlemaps",
+			"title": "Beneos Battlemaps",
+			"description": "Compendium pack with high quality animated battlemaps",
+			"author": "Beneos",
+			"version": "1.0.1",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.5",
+			"packs": [
+    					{
+      					"name": "beneosbattlemaps4K",
+      					"label": "Beneos Battlemaps 4K",
+      					"path": "packs/beneosbattlemaps4K.db",
+      					"entity": "Scene",
+      					"module": "beneosbattlemaps"
+						},
+
+    					{
+      					"name": "beneosbattlemapsScenery4K",
+      					"label": "Beneos Battlemaps Scenery 4K",
+      					"path": "packs/beneosbattlemapsScenery4K.db",
+      					"entity": "Scene",
+      					"module": "beneosbattlemaps"
+						}
+					]
+		  }
